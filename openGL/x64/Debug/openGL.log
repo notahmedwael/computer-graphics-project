@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'main.cpp')
+  D:\Studying\3rd Year\IT\Second Semester\Computer Graphics\Project\openGL\openGL\dependencies\include\GLFW\glfw3.h(123,1):
+  see previous definition of 'APIENTRY'
+  
+  openGL.vcxproj -> D:\Studying\3rd Year\IT\Second Semester\Computer Graphics\Project\openGL\x64\Debug\openGL.exe
